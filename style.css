@@ -12,6 +12,10 @@ nav {
 	text-align: center;
 }
 
+p a{
+	text-decoration:none;
+}
+
 nav a{ 
 	text-decoration: none;
 	padding: 0 15px;
